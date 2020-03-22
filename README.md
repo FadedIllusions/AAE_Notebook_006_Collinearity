@@ -15,7 +15,7 @@ Over the course of the following few notebooks, we're going to go into methods t
 
 In this notebook, we're going to explore the concept of waypoint collinearity.
 
-![collinear](images/cellinear.png)
+![collinear](images/collinear.png)
 
 Three points are said to be collinear when their area is more than zero.
 
